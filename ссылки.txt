@@ -1,0 +1,19 @@
+https://habr.com/post/335224/		steepest gd?
+https://habr.com/post/318970/		Î ÌÍÎÃÈÕ ÎÏÒÈÌÈÇÀÒÎĞÀÕ
+
+ÏĞÅÄÎÎÁĞÀÁÎÒÊÀ ÄÀÍÍÛÕ
+http://scikit-learn.org/stable/modules/preprocessing.html					- ÂÀÆÍÀß ÑÒÀÒÜß
+https://github.com/lunaplush/coursera/blob/master/Preprocessing_LR.py				- +1
+
+http://neuronus.com/theory/931-sposoby-normalizatsii-peremennykh.html
+https://intellect.ml/sposoby-normalizatsii-vkhodnykh-dannykh-dlya-neronnyj-setej-6891
+http://qaru.site/questions/1232601/classification-pca-and-logistic-regression-using-sklearn
+
+ÎÒÁÎĞ ÏĞÈÇÍÀÊÎÂ
+https://habr.com/company/ods/blog/325422/
+http://datareview.info/article/otbor-priznakov-dlya-mashinnogo-obucheniya-na-python/
+http://www.faqs.org/faqs/ai-faq/neural-nets/part2/section-16.html
+
+
+BFGS:
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.fmin_bfgs.html#scipy.optimize.fmin_bfgs
